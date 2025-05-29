@@ -73,5 +73,3 @@ Password:
 ```bash
 1234
 ```
-
-## If you like our project please leave a star ❤
