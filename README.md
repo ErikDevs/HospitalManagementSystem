@@ -19,10 +19,6 @@ Follow these instructions to set up and run the project locally on your Machine.
 ```
 
 ```bash
-  cd hospitalMS
-```
-
-```bash
 composer install
 ```
 
